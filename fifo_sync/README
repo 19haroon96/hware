@@ -1,0 +1,2 @@
+Synchronous FIFO PIPE with r&v interfaces.
+Parameterized for both word size and depth.
